@@ -1,2 +1,2 @@
 # GL_Task
-Task for base camp
+The task for a base camp
